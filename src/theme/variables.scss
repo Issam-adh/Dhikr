@@ -1,0 +1,24 @@
+@import "@ionic/angular/css/core.css";
+@import "@ionic/angular/css/normalize.css";
+@import "@ionic/angular/css/structure.css";
+@import "@ionic/angular/css/typography.css";
+@import "@ionic/angular/css/display.css";
+@import "@ionic/angular/css/padding.css";
+@import "@ionic/angular/css/flex-utils.css";
+
+:root {
+  --ion-color-primary: #0f766e;
+  --ion-color-primary-rgb: 15,118,110;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-secondary: #c79a3b;
+  --ion-color-success: #15803d;
+  --ion-background-color: #fbf7ed;
+  --ion-text-color: #17332f;
+  --ion-font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+body.dark {
+  --ion-background-color: #071713;
+  --ion-text-color: #f7f0df;
+  --ion-item-background: #10231f;
+  --ion-card-background: #10231f;
+}

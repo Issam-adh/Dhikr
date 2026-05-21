@@ -1,0 +1,5 @@
+{
+  "name": "Adhkar Reminder",
+  "integrations": { "capacitor": {} },
+  "type": "angular-standalone"
+}
