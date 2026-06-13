@@ -85,4 +85,74 @@ export const ADHKAR_SEED: Adhkar[] = [
     translation: "There is no power and no strength except with Allah.",
     source: "Bukhari and Muslim",
   },
+  {
+  id: 'astaghfirullah',
+  arabic: 'أَسْتَغْفِرُ اللَّهَ',
+  transliteration: 'Astaghfirullah.',
+  translation: 'I seek Allah’s forgiveness.',
+  category: 'Daily',
+  source: 'Common dhikr',
+  favourite: false,
+  custom: false
+},
+{
+  id: 'subhan-allahi-wa-bihamdih',
+  arabic: 'سُبْحَانَ اللَّهِ وَبِحَمْدِهِ',
+  transliteration: 'Subhan Allahi wa bihamdih.',
+  translation: 'Glory is to Allah and praise is to Him.',
+  category: 'Daily',
+  source: 'Bukhari and Muslim',
+  favourite: false,
+  custom: false
+},
+{
+  id: 'alhamdulillah',
+  arabic: 'الْحَمْدُ لِلَّهِ',
+  transliteration: 'Alhamdu lillah.',
+  translation: 'All praise is due to Allah.',
+  category: 'Daily',
+  source: 'Qur’an 1:2',
+  favourite: false,
+  custom: false
+},
+{
+  id: 'la-ilaha-illa-allah',
+  arabic: 'لَا إِلَهَ إِلَّا اللَّهُ',
+  transliteration: 'La ilaha illa Allah.',
+  translation: 'There is no god worthy of worship except Allah.',
+  category: 'Daily',
+  source: 'Common dhikr',
+  favourite: false,
+  custom: false
+},
+{
+  id: 'la-hawla-wa-la-quwwata',
+  arabic: 'لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ',
+  transliteration: 'La hawla wa la quwwata illa billah.',
+  translation: 'There is no power and no strength except with Allah.',
+  category: 'Daily',
+  source: 'Bukhari and Muslim',
+  favourite: false,
+  custom: false
+},
+{
+  id: 'salawat',
+  arabic: 'اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَى نَبِيِّنَا مُحَمَّدٍ',
+  transliteration: 'Allahumma salli wa sallim ‘ala nabiyyina Muhammad.',
+  translation: 'O Allah, send prayers and peace upon our Prophet Muhammad.',
+  category: 'Daily',
+  source: 'Common salawat',
+  favourite: false,
+  custom: false
+},
+{
+  id: 'allahumma-a-inni',
+  arabic: 'اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ',
+  transliteration: 'Allahumma a‘inni ‘ala dhikrika wa shukrika wa husni ‘ibadatik.',
+  translation: 'O Allah, help me remember You, thank You, and worship You in the best way.',
+  category: 'Daily',
+  source: 'Abu Dawud and An-Nasa’i',
+  favourite: false,
+  custom: false
+}
 ];
